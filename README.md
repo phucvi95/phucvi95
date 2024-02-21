@@ -7,17 +7,10 @@
 # Hi guys 👋  I'm Phuc Vi
 
 
-
-
-
-- 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
 - 🌱 I’m currently learning React JS
 - 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
 - 📫 How to reach me: phucvi.me@gmail.com
 - 🌍 My blog: https://phucvi.me
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 
 <h3 align="left">Languages and Tools:</h3>
