@@ -6,9 +6,6 @@
 
 # Hi guys 👋  I'm Phuc Vi
 
-
-- 🌱 I’m currently learning React JS
-- 👯 open source contributor
 - 📫 How to reach me: phucvi.me@gmail.com
 - 🌍 My blog: https://phucvi.me
 
